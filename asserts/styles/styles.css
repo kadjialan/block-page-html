@@ -1,0 +1,48 @@
+body{
+    background-color: #80808057;
+}
+
+
+#header{
+    text-align: center;
+}
+
+.wood {
+    display: block;
+    float: left;  
+}
+ 
+.big{
+    width: 54rem;
+}
+
+figcaption {
+    background-color: aqua;
+    margin-top: -22px;
+}
+
+#right{
+    display: block;
+    float: left;
+}
+
+.picture{
+    width: 50px;
+    text-align: center;
+}
+
+.post{
+    display: block;
+}
+
+
+
+.tag{
+    display: block;
+}
+
+.tag button{
+    margin: 5px;
+}
+
+
