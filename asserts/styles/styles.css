@@ -26,7 +26,7 @@ span {
   grid-template-columns: auto auto;
   margin: auto;
   justify-content: space-between;
-  max-width: 75%;
+  max-width: 80%;
 }
 
 #content {
