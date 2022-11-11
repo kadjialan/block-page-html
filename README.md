@@ -1,8 +1,8 @@
 
 
-# Myblog
+# blog
 
-This project is named myblog.
+This project is named blog.
 
 ## APP
 
@@ -24,14 +24,14 @@ about me. get to my page and have an idea about the blog of unknows.
 
 - To get a local copy up and running follow these simple example steps.
 - Clone this repository with
-`https://github.com/kadjialan/myblog-page-html` using your terminal.
+`https://github.com/kadjialan/block-page-html` using your terminal.
 - Change to the project directory by entering: cd wedding in the terminal.
 
 ## Command-line steps
 
-- $ git clone `$ https://github.com/kadjialan/myblog-page-html`
-- $ `cd myblog`
-- $ `git checkout feature`
+- $ git clone `$ https://github.com/kadjialan/block-page-html`
+- $ `cd blog`
+- $ `git checkout feature/design`
 
 ## Start App
 
@@ -47,7 +47,7 @@ Knowledge about:
 
 ## Live Site
 
-[Link](https://kadjialan.github.io/myblog-page-html/)
+[Link]( https://kadjialan.github.io/block-page-html/)
 
 ## Author
 
@@ -59,7 +59,7 @@ Knowledge about:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kadjialan/myblog-page-html/issues).
+Feel free to check the [issues page](https://github.com/kadjialan/block-page-html/issues).
 
 ## Show your support
 
